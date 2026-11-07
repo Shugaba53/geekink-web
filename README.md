@@ -1,8 +1,10 @@
 # Geekink-web
 ## ASSINGMENT!
----
+----
 ### QUESTION:
-* How web work
-* What is cleint
-* What is saver
-* What is IPS and DNS
+>1. How web works
+>2. What is cleint
+>3. What is saver
+>4. What is IPS and DNS
+----
+#### A

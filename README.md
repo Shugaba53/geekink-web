@@ -1,5 +1,5 @@
 # Geekink-web
-## ASSINGMENT!
+## ASSINGMENT
 ----
 ### QUESTION:
 >1. How web works

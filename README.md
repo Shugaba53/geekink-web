@@ -13,4 +13,5 @@
 
 Websites operate on a client–server model: your browser (the client) sends a request, and a remote server sends back the data your browser needs to display the page.
 Every time you visit a website, there’s a whole chain of events happening behind the scenes, and it all takes place in milliseconds.
-2.cleint:
+---
+2.Cleint:client is a person, company, or device that receives services, advice, or resources from another party. The term has two primary meanings depending on whether you are talking about business or technology:

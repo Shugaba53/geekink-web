@@ -4,7 +4,7 @@
 ### QUESTION:
 >1. How web works
 >2. What is cleint
->3. What is saver
+>3. What is server
 >4. What is IPS and DNS
 ----
 #### ANSWERS:
@@ -15,3 +15,5 @@ Websites operate on a client–server model: your browser (the client) sends a r
 Every time you visit a website, there’s a whole chain of events happening behind the scenes, and it all takes place in milliseconds.
 ---
 2.Cleint: client is a person, company, or device that receives services, advice, or resources from another party. The term has two primary meanings depending on whether you are talking about business or technology:
+--
+3.Server: A server is a computer or software system that stores, processes, and delivers data, resources, or services to other computers—known as clients—over a network or the internet.

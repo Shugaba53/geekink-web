@@ -18,6 +18,7 @@ Every time you visit a website, there’s a whole chain of events happening behi
 --
 3.Server: A server is a computer or software system that stores, processes, and delivers data, resources, or services to other computers—known as clients—over a network or the internet.
 ---
-4> * An Internet Service Provider (ISP) is a company or organization that gives individuals, homes, and businesses access to the internet. It acts as a digital bridge or gateway between your local devices (like smartphones, laptops, and smart TVs) and the global internet.
+4. * An Internet Service Provider (ISP) is a company or organization that gives individuals, homes, and businesses access to the internet. It acts as a digital bridge or gateway between your local devices (like smartphones, laptops, and smart TVs) and the global internet.
 
   * (Domain Name System) is the internet's phonebook. It translates human-readable website names (like google.com) into computer-friendly numeric IP addresses (like 192.0.2.1) so your device can find and load websites.
+---
